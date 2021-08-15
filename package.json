@@ -1,0 +1,16 @@
+{
+  "name": "paraswap-examples",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "dotenv": "^10.0.0",
+    "paraswap": "^4.28.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.5.2"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
